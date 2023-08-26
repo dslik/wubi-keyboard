@@ -10,6 +10,29 @@ A custom keyboard with a few neat features:
 
 _Feel free to ask questions by opening an issue!_
 
+## 2023-08-25
+
+Next batch of PCBs came in:
+
+![image](https://github.com/dslik/wubi-keyboard/assets/5757591/9dc37685-0d58-4f62-89ca-88d500fc5f9d)
+
+From top to bottom:
+- Front panel
+- OLED Holder
+- Spacer
+- Keyboard plate
+- Keyboard PCB
+
+When it's all assembled, it looks like this:
+
+![image](https://github.com/dslik/wubi-keyboard/assets/5757591/73557b8b-c72c-447d-9a51-4fd770bde87b)
+
+It's a little difficult to see in this photo, but there are two OLED displays at the top of the keyboard.
+
+Everything fits nicely, but I am worried about the OLEDs not having any protection, so I want to find some sheets of acrylic that I can put on top of each display to protec them.
+
+Next steps are sourcing some 2mm acrylic and figuring out how to have it cut, and updating the PCBs to hold the acrylic in place.
+
 ## 2023-08-05
 
 The updated keyboard plates came in, and everything fits now.
